@@ -1,0 +1,16 @@
+{
+  "stacks": {
+    "cdktf-name-picker": {
+      "annotations": [
+      ],
+      "constructPath": "cdktf-name-picker",
+      "dependencies": [
+      ],
+      "name": "cdktf-name-picker",
+      "stackMetadataPath": "stacks/cdktf-name-picker/metadata.json",
+      "synthesizedStackPath": "stacks/cdktf-name-picker/cdk.tf.json",
+      "workingDirectory": "stacks/cdktf-name-picker"
+    }
+  },
+  "version": "0.20.12"
+}
